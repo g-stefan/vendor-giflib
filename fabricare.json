@@ -1,0 +1,17 @@
+{
+	"solution": {
+		"name" : "vendor-giflib",
+		"type" : "xyo-cpp",
+		"projects": [
+			{
+				"name" : "giflib",
+				"SPDX-License-Identifier": "MIT",
+				"sourceLink" : "https://giflib.sourceforge.net/",
+				"version" : "5.2.2",
+				"noVersion" : true
+			}
+		],
+		"releaseName" : "giflib"
+	}
+}
+
